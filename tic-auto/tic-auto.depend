@@ -9,3 +9,13 @@
 
 1544638995 source:c:\users\nicholas impieri\desktop\t i c\tic-auto\icon.rc
 
+1544642596 source:c:\users\impie\documents\sviluppo web\t i c\tic-auto\icon.rc
+
+1625411320 source:c:\users\impie\documents\sviluppo web\t i c\tic-auto\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<fstream>
+	<string.h>
+
